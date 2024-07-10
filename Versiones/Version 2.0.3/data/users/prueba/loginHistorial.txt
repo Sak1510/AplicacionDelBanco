@@ -1,0 +1,9 @@
+login:  exitoso		fecha: 09-07-2024 21:38		password: 123
+logout: forzado		fecha: 09-07-2024 21:42
+login:  exitoso		fecha: 09-07-2024 21:42		password: 123
+logout: forzado		fecha: 09-07-2024 21:44
+login:  exitoso		fecha: 09-07-2024 21:44		password: 123
+logout: forzado		fecha: 09-07-2024 21:45
+login:  exitoso		fecha: 09-07-2024 21:45		password: 123
+logout: forzado		fecha: 09-07-2024 21:47
+login:  exitoso		fecha: 09-07-2024 21:47		password: 123
