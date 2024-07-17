@@ -1,2 +1,0 @@
-@echo off
-MD sak
